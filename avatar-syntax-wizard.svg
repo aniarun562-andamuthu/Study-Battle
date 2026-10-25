@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764" /><stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#g2)" stroke="#c084fc" stroke-width="2.5" />
+  <!-- Robe -->
+  <path d="M28 106 C28 80, 42 72, 60 72 C78 72, 92 80, 92 106 Z" fill="#2e1065" stroke="#a855f7" stroke-width="1.5" />
+  <!-- Beard -->
+  <polygon points="48,58 72,58 60,84" fill="#e9d5ff" />
+  <!-- Wizard Hat -->
+  <polygon points="60,14 36,46 84,46" fill="#1e1b4b" stroke="#c084fc" stroke-width="2" />
+  <ellipse cx="60" cy="46" rx="28" ry="6" fill="#4338ca" stroke="#c084fc" stroke-width="1.5" />
+  <circle cx="60" cy="30" r="3" fill="#fbbf24" />
+  <!-- Glowing Eyes -->
+  <circle cx="52" cy="52" r="2.5" fill="#38bdf8" />
+  <circle cx="68" cy="52" r="2.5" fill="#38bdf8" />
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#78350f" /><stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#g4)" stroke="#fbbf24" stroke-width="2.5" />
+  <!-- Shoulders -->
+  <path d="M28 106 C28 82, 42 74, 60 74 C78 74, 92 82, 92 106 Z" fill="#451a03" stroke="#f59e0b" stroke-width="1.5" />
+  <!-- Head -->
+  <circle cx="60" cy="54" r="22" fill="#1c1917" stroke="#fbbf24" stroke-width="1.5" />
+  <!-- Crown -->
+  <polygon points="40,36 46,24 53,32 60,18 67,32 74,24 80,36" fill="#fbbf24" stroke="#d97706" stroke-width="1.5" />
+  <circle cx="60" cy="22" r="2" fill="#ef4444" />
+  <circle cx="46" cy="26" r="1.5" fill="#3b82f6" />
+  <circle cx="74" cy="26" r="1.5" fill="#3b82f6" />
+  <!-- Eyes -->
+  <ellipse cx="52" cy="54" rx="3" ry="2" fill="#fbbf24" />
+  <ellipse cx="68" cy="54" rx="3" ry="2" fill="#fbbf24" />
+</svg>

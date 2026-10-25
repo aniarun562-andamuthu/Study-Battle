@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" /><stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#g3)" stroke="#34d399" stroke-width="2.5" />
+  <!-- Robot Body -->
+  <rect x="36" y="74" width="48" height="32" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1.5" />
+  <!-- Robot Head -->
+  <rect x="38" y="32" width="44" height="36" rx="8" fill="#1e293b" stroke="#34d399" stroke-width="2" />
+  <!-- Antenna -->
+  <line x1="60" y1="32" x2="60" y2="20" stroke="#34d399" stroke-width="3" />
+  <circle cx="60" cy="18" r="4" fill="#34d399" />
+  <!-- Visor Screen -->
+  <rect x="44" y="40" width="32" height="18" rx="4" fill="#022c22" stroke="#10b981" stroke-width="1" />
+  <circle cx="52" cy="49" r="3" fill="#34d399" />
+  <circle cx="68" cy="49" r="3" fill="#34d399" />
+  <line x1="48" y1="58" x2="72" y2="58" stroke="#10b981" stroke-width="1.5" />
+</svg>

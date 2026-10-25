@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" /><stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#g1)" stroke="#22d3ee" stroke-width="2.5" />
+  <!-- Ninja Cowl -->
+  <path d="M30 106 C30 82, 42 74, 60 74 C78 74, 90 82, 90 106 Z" fill="#1e293b" />
+  <circle cx="60" cy="50" r="24" fill="#0f172a" stroke="#06b6d4" stroke-width="1.5" />
+  <!-- Ninja Mask & Eyes -->
+  <path d="M42 46 Q60 52 78 46 L78 62 Q60 68 42 62 Z" fill="#334155" />
+  <ellipse cx="50" cy="48" rx="4" ry="2" fill="#22d3ee" />
+  <ellipse cx="70" cy="48" rx="4" ry="2" fill="#22d3ee" />
+  <!-- Headband -->
+  <rect x="36" y="32" width="48" height="8" rx="2" fill="#06b6d4" />
+  <circle cx="60" cy="36" r="3" fill="#ffffff" />
+</svg>
